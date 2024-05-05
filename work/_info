@@ -1,0 +1,918 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/tubbadu/Portable/intelFPGA/20.1
+Eadder
+Z0 w1683101527
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 213
+Z4 d/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6
+Z5 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/adder.vhd
+Z6 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/adder.vhd
+l0
+L6 1
+VNMElPQ?C38k4hShT6eNIQ3
+!s100 TIN9?OPDMWhJem><i15D91
+Z7 OV;C;2020.1;71
+33
+Z8 !s110 1683141583
+!i10b 1
+Z9 !s108 1683141583.000000
+Z10 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/adder.vhd|
+Z11 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/adder.vhd|
+!i113 1
+Z12 o-work work -2008 -explicit
+Z13 tExplicit 1 NoCoverage 1 CvgOpt 0
+Abehavior
+R1
+R2
+R3
+DEx4 work 5 adder 0 22 NMElPQ?C38k4hShT6eNIQ3
+!i122 213
+l40
+L19 32
+VgS<n71n0S3C[6^@?iPQac1
+!s100 :9P`R[Ye_1Bn>8F_I?68[3
+R7
+33
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eadder16b
+Z14 w1683114745
+R1
+R2
+R3
+!i122 37
+R4
+Z15 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/architectural_adders.vhd
+Z16 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/architectural_adders.vhd
+l0
+L209 1
+VMfo<8T=aQ?C_2lQQeEH>50
+!s100 1z7nShWUm]ljQP>C5>3XO0
+R7
+33
+Z17 !s110 1683114917
+!i10b 1
+Z18 !s108 1683114917.000000
+Z19 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/architectural_adders.vhd|
+Z20 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/architectural_adders.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 adder16b 0 22 Mfo<8T=aQ?C_2lQQeEH>50
+!i122 37
+l250
+L219 57
+V3E:CcBC@Wjg?ZgY=mWK6U2
+!s100 >ZI>UA;7FhBk:aUVmbS5J3
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Eadder2b
+R14
+R1
+R2
+R3
+!i122 37
+R4
+R15
+R16
+l0
+L28 1
+Vo67]mhGU@SYK2kAJY[cIG3
+!s100 6]AU`fCKS`K0S@PQiP^=G1
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 adder2b 0 22 o67]mhGU@SYK2kAJY[cIG3
+!i122 37
+l51
+L38 18
+V73;6DYZ;OH2=6bB=gh0cX1
+!s100 UChCnz>n2VGLi5_ZN<H093
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Eadder4b
+R14
+R1
+R2
+R3
+!i122 37
+R4
+R15
+R16
+l0
+L62 1
+VRQUcURzc=<L8Zj>GVV?RH1
+!s100 8Xna4Yoi_<GfN3jj7adch2
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 adder4b 0 22 RQUcURzc=<L8Zj>GVV?RH1
+!i122 37
+l103
+L72 58
+VDgl@h9c7zYclT5gbJ>g;@3
+!s100 ghOH]H:n5DMKLJOKVda?j0
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Eadder8b
+R14
+R1
+R2
+R3
+!i122 37
+R4
+R15
+R16
+l0
+L136 1
+VK[Dn7QGgDDSeZ7551DS[=2
+!s100 fj6z:AX>Y^@f56iW39_<V2
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 adder8b 0 22 K[Dn7QGgDDSeZ7551DS[=2
+!i122 37
+l177
+L146 57
+V]=Q;hbMm2K=CE@3K7Aa<N1
+!s100 PEJTRZ2V;YShSBTWZJ]BF3
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Ebit11to8
+R0
+R1
+R2
+R3
+!i122 215
+R4
+Z21 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit11to8.vhd
+Z22 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit11to8.vhd
+l0
+L5 1
+VY[=d9H7D1RiWOaL0@IP183
+!s100 oQbeaX@8Uj3iH_VdVl0RD0
+R7
+33
+R8
+!i10b 1
+R9
+Z23 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit11to8.vhd|
+Z24 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit11to8.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 bit11to8 0 22 Y[=d9H7D1RiWOaL0@IP183
+!i122 215
+l14
+Z25 L12 8
+VAERS<e?_4OeZbAeEHTQ2z0
+!s100 4ASKc0oTjZM[>OIV@^B@S1
+R7
+33
+R8
+!i10b 1
+R9
+R23
+R24
+!i113 1
+R12
+R13
+Ebit8to11
+R0
+R1
+R2
+R3
+!i122 214
+R4
+Z26 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit8to11.vhd
+Z27 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit8to11.vhd
+l0
+L5 1
+VQKZc5dzF5jNDHEE5S83kC3
+!s100 GZP>8A5eL_1eI9llfM3GN2
+R7
+33
+R8
+!i10b 1
+R9
+Z28 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit8to11.vhd|
+Z29 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit8to11.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 bit8to11 0 22 QKZc5dzF5jNDHEE5S83kC3
+!i122 214
+l13
+Z30 L12 10
+Vz4Uoo0NLImd7>nWSXeL1;1
+!s100 gIaW4OO:SZHbd4z:nZkRT0
+R7
+33
+R8
+!i10b 1
+R9
+R28
+R29
+!i113 1
+R12
+R13
+Econtrolunit
+Z31 w1683141436
+R2
+R3
+!i122 216
+R4
+Z32 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ControlUnit.vhd
+Z33 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ControlUnit.vhd
+l0
+L4 1
+VT;:jR733nLK5nKV[0oh8^1
+!s100 gSO2D_AU@BgNV_Yn]]O3Z3
+R7
+33
+R8
+!i10b 1
+R9
+Z34 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ControlUnit.vhd|
+Z35 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ControlUnit.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R2
+R3
+DEx4 work 11 controlunit 0 22 T;:jR733nLK5nKV[0oh8^1
+!i122 216
+l52
+L34 281
+VRaSU`WfG3ISKR`L7K9[D]3
+!s100 CQz7a889WOZZB;YQ^IEdD0
+R7
+33
+R8
+!i10b 1
+R9
+R34
+R35
+!i113 1
+R12
+R13
+Ecountern
+R31
+R1
+R2
+R3
+!i122 217
+R4
+Z36 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/countern.vhd
+Z37 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/countern.vhd
+l0
+L5 1
+VU5@>2aQe6L[VA_U3W>5MB0
+!s100 S>SVHMD7=fGd:K:n5]D_N0
+R7
+33
+R8
+!i10b 1
+R9
+Z38 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/countern.vhd|
+Z39 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/countern.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 countern 0 22 U5@>2aQe6L[VA_U3W>5MB0
+!i122 217
+l18
+L14 23
+ViM1M8nW=cWUf6o<oXB1G73
+!s100 `HGU>dI=FOh<A_2_Lbbgg3
+R7
+33
+R8
+!i10b 1
+R9
+R38
+R39
+!i113 1
+R12
+R13
+Edatapath
+Z40 w1683141580
+R1
+R2
+R3
+!i122 218
+R4
+Z41 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/datapath.vhd
+Z42 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/datapath.vhd
+l0
+L5 1
+VDCSQBEZLSkOh[he16T;:K0
+!s100 4;5:0QW[B0SZY<jZ9jVIi0
+R7
+33
+R8
+!i10b 1
+R9
+Z43 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/datapath.vhd|
+Z44 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/datapath.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 datapath 0 22 DCSQBEZLSkOh[he16T;:K0
+!i122 218
+l163
+L35 253
+VQSTWN4X][_Ag93EOi1S9T2
+!s100 [GiNj;5`^Z1M3Kn[[leQg1
+R7
+33
+R8
+!i10b 1
+R9
+R43
+R44
+!i113 1
+R12
+R13
+Edividebyminus4
+R0
+R1
+R2
+R3
+!i122 219
+R4
+Z45 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/divideByMinus4.vhd
+Z46 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/divideByMinus4.vhd
+l0
+L5 1
+VDmg`oe0SoQiRDYk89Jj]?0
+!s100 [J>TjR>f<l2Mz<GRea3Qo1
+R7
+33
+R8
+!i10b 1
+R9
+Z47 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/divideByMinus4.vhd|
+Z48 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/divideByMinus4.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 14 dividebyminus4 0 22 Dmg`oe0SoQiRDYk89Jj]?0
+!i122 219
+l13
+R30
+VfJm`^;<4@fAdTKfYRN>n93
+!s100 A8RgjVgbeXF9^_Szn]4mf3
+R7
+33
+R8
+!i10b 1
+R9
+R47
+R48
+!i113 1
+R12
+R13
+Eesd_lab6
+R31
+R1
+R2
+R3
+!i122 220
+R4
+Z49 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ESD_LAB6.vhd
+Z50 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ESD_LAB6.vhd
+l0
+L5 1
+VmAR7T9:X;Z;dCL9lTYggH1
+!s100 W;l56c@lnh_W5bEoTB2dz2
+R7
+33
+R8
+!i10b 1
+R9
+Z51 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ESD_LAB6.vhd|
+Z52 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ESD_LAB6.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 8 esd_lab6 0 22 mAR7T9:X;Z;dCL9lTYggH1
+!i122 220
+l93
+L17 146
+VH0F67LelzW^4non@8cWa:2
+!s100 dQm3ToO[1@LnVU0RakHnk0
+R7
+33
+R8
+!i10b 1
+R9
+R51
+R52
+!i113 1
+R12
+R13
+Efull_adder
+R14
+R1
+R2
+R3
+!i122 37
+R4
+R15
+R16
+l0
+L5 1
+Vz^3ZZclLDiH3BfobaGMez3
+!s100 BTl4c=Va`<0IS6igoSJdj0
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 full_adder 0 22 z^3ZZclLDiH3BfobaGMez3
+!i122 37
+l18
+L15 7
+VM@cm;EajcGj]GSA:<Y9bO0
+!s100 =Ng154RGM];;GhQT3:6[]0
+R7
+33
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Ememory
+Z53 w1683114906
+Z54 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+Z55 DPx4 ieee 9 math_real 0 22 gNk<PdFJ<XNPcfef`f?Z81
+R1
+R2
+R3
+!i122 221
+R4
+Z56 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/memory.vhd
+Z57 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/memory.vhd
+l0
+L9 1
+V@hjgLDN^^Noe0DmHb0@OA3
+!s100 _6jB<kLCdAz[<<;gZWNno1
+R7
+33
+R8
+!i10b 1
+R9
+Z58 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/memory.vhd|
+Z59 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/memory.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R54
+R55
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 @hjgLDN^^Noe0DmHb0@OA3
+!i122 221
+l31
+L24 32
+VWJM=0WiC3^WzMo:M<k?6:2
+!s100 om]RFfzj5QfNMZ_<d13RD1
+R7
+33
+R8
+!i10b 1
+R9
+R58
+R59
+!i113 1
+R12
+R13
+Emultiplyby2
+R0
+R1
+R2
+R3
+!i122 222
+R4
+Z60 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/multiplyBy2.vhd
+Z61 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/multiplyBy2.vhd
+l0
+L5 1
+Vge3l8:30fRKf9ZVeP=DCN3
+!s100 7[XBYG7NA^T[2KZ1WWHg]0
+R7
+33
+R8
+!i10b 1
+R9
+Z62 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/multiplyBy2.vhd|
+Z63 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/multiplyBy2.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 11 multiplyby2 0 22 ge3l8:30fRKf9ZVeP=DCN3
+!i122 222
+l13
+R25
+V<C0BC6D@hkdEPm8AmoE4d2
+!s100 f73cH0ViCF<FZDD>7]1L<1
+R7
+33
+R8
+!i10b 1
+R9
+R62
+R63
+!i113 1
+R12
+R13
+Emux2to1
+R0
+R1
+R2
+R3
+!i122 223
+R4
+Z64 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux2to1.vhd
+Z65 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux2to1.vhd
+l0
+L5 1
+VLZoFNZ844QS8@=^UHOdHM0
+!s100 d7dW=?@FZ8_KF0S[o=fJn0
+R7
+33
+Z66 !s110 1683141584
+!i10b 1
+Z67 !s108 1683141584.000000
+Z68 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux2to1.vhd|
+Z69 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux2to1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 mux2to1 0 22 LZoFNZ844QS8@=^UHOdHM0
+!i122 223
+l19
+L18 4
+VzR<:5>Vd7Ta<BA01J91lQ3
+!s100 ih]HNdmDK^S`Y6;YQLZB^1
+R7
+33
+R66
+!i10b 1
+R67
+R68
+R69
+!i113 1
+R12
+R13
+Emux4to1
+Z70 w1683101522
+R1
+R2
+R3
+!i122 224
+R4
+Z71 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux4to1.vhd
+Z72 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux4to1.vhd
+l0
+L5 1
+VHagTbZ8dQM5kFcDQFl=fa0
+!s100 Vk_[BI74AHZKL<6Yn4>ia3
+R7
+33
+R66
+!i10b 1
+R67
+Z73 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux4to1.vhd|
+Z74 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux4to1.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 mux4to1 0 22 HagTbZ8dQM5kFcDQFl=fa0
+!i122 224
+l23
+L20 10
+VC[Mo][;ZW:>>e4Gez7_Tj0
+!s100 BkcHgAz8>Am?5d?z1niAU1
+R7
+33
+R66
+!i10b 1
+R67
+R73
+R74
+!i113 1
+R12
+R13
+Eof_uf_fgen
+R0
+R1
+R2
+R3
+!i122 225
+R4
+Z75 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/of_uf_fgen.vhd
+Z76 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/of_uf_fgen.vhd
+l0
+L5 1
+VS2;n]4hO_?:@?3I661j>P3
+!s100 N1^Zo?LL37ogzkXFC8`113
+R7
+33
+R66
+!i10b 1
+R67
+Z77 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/of_uf_fgen.vhd|
+Z78 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/of_uf_fgen.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 10 of_uf_fgen 0 22 S2;n]4hO_?:@?3I661j>P3
+!i122 225
+l15
+L13 11
+VRJKU7jWXhE0O6[:l:G`>n2
+!s100 Mg6]blP3U5TH1WkijiYFo1
+R7
+33
+R66
+!i10b 1
+R67
+R77
+R78
+!i113 1
+R12
+R13
+Ereg_11b
+R0
+R1
+R2
+R3
+!i122 226
+R4
+Z79 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/reg_11b.vhd
+Z80 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/reg_11b.vhd
+l0
+L5 1
+V==I>:<P_Wo7@_L:Q4^i=11
+!s100 Amg`Jf=7[Ekc[GkLY_Ne?1
+R7
+33
+R66
+!i10b 1
+R67
+Z81 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/reg_11b.vhd|
+Z82 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/reg_11b.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+DEx4 work 7 reg_11b 0 22 ==I>:<P_Wo7@_L:Q4^i=11
+!i122 226
+l13
+L12 11
+VB4LIP^Lh`Hic=oNOWjF221
+!s100 Lc8G]cRjTC?DBBDXFU?Zf2
+R7
+33
+R66
+!i10b 1
+R67
+R81
+R82
+!i113 1
+R12
+R13
+Etb_lab6
+R31
+R54
+R1
+R2
+R3
+!i122 227
+R4
+Z83 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tb_lab6.vhd
+Z84 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tb_lab6.vhd
+l0
+L9 1
+VH19LBSf>Ci>ZDDT2cScmZ0
+!s100 DOB894S=]52Qgm90]`LM22
+R7
+33
+R66
+!i10b 1
+R67
+Z85 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tb_lab6.vhd|
+Z86 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tb_lab6.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R54
+R1
+R2
+R3
+DEx4 work 7 tb_lab6 0 22 H19LBSf>Ci>ZDDT2cScmZ0
+!i122 227
+l34
+L12 63
+V=PiaVVW85X`HRj3aXPgSZ3
+!s100 7]nK<VA=34njCF8>E<O?B2
+R7
+33
+R66
+!i10b 1
+R67
+R85
+R86
+!i113 1
+R12
+R13
+Etipwarning_detector
+R0
+R1
+R2
+R3
+!i122 228
+R4
+Z87 8/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tipwarning_detector.vhd
+Z88 F/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tipwarning_detector.vhd
+l0
+L5 1
+Vz?7QBoKM23N2o6`ij0e7A2
+!s100 36g^`2b?]V9iHTHMWA[C[1
+R7
+33
+R66
+!i10b 1
+R67
+Z89 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tipwarning_detector.vhd|
+Z90 !s107 /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tipwarning_detector.vhd|
+!i113 1
+R12
+R13
+Abehavior
+R1
+R2
+R3
+Z91 DEx4 work 19 tipwarning_detector 0 22 z?7QBoKM23N2o6`ij0e7A2
+!i122 228
+l15
+Z92 L13 6
+Z93 VYAh8=B`O=S7B_JONI``lJ2
+Z94 !s100 STdneZe?lW3iNNM5O84=S3
+R7
+33
+R66
+!i10b 1
+R67
+R89
+R90
+!i113 1
+R12
+R13

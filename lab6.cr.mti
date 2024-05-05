@@ -1,0 +1,129 @@
+/home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/divideByMinus4.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/divideByMinus4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity divideByMinus4
+-- Compiling architecture behavior of divideByMinus4
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux2to1.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux2to1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux2to1
+-- Compiling architecture behavior of mux2to1
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ControlUnit.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ControlUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ControlUnit
+-- Compiling architecture behavior of ControlUnit
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux4to1.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/mux4to1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mux4to1
+-- Compiling architecture behavior of mux4to1
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit8to11.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit8to11.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bit8to11
+-- Compiling architecture behavior of bit8to11
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/multiplyBy2.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/multiplyBy2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity multiplyBy2
+-- Compiling architecture behavior of multiplyBy2
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/of_uf_fgen.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/of_uf_fgen.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity of_uf_fgen
+-- Compiling architecture behavior of of_uf_fgen
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ESD_LAB6.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/ESD_LAB6.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ESD_LAB6
+-- Compiling architecture behavior of ESD_LAB6
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/memory.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MATH_REAL
+-- Loading package std_logic_textio
+-- Compiling entity memory
+-- Compiling architecture behavior of memory
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/reg_11b.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/reg_11b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity reg_11b
+-- Compiling architecture Behavior of reg_11b
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tb_lab6.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tb_lab6.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity tb_lab6
+-- Compiling architecture Behavior of tb_lab6
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tipwarning_detector.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/tipwarning_detector.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity tipwarning_detector
+-- Compiling architecture behavior of tipwarning_detector
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit11to8.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/bit11to8.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bit11to8
+-- Compiling architecture behavior of bit11to8
+
+} {} {}} /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/countern.vhd {1 {vcom -work work -2008 -explicit -stats=none /home/tubbadu/Nextcloud/Polito/ESD/intelFPGA_lite/ESD_LAB6/countern.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity countern
+-- Compiling architecture Behavior of countern
+
+} {} {}}
